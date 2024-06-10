@@ -30,7 +30,7 @@
 
 
 .. image:: /_images/a1first.png
-  :width: 600
+  :width: 800
   :alt: Σχολικό Βιβλίο
 
 
