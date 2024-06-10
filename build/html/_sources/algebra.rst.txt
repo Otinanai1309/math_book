@@ -29,8 +29,8 @@
 ψηφίων στο αριθµό.
 
 
-.. image:: a1first.png
+.. image:: /_images/a1first.png
   :width: 600
   :alt: Σχολικό Βιβλίο
 
-  
+
